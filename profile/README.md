@@ -1,8 +1,7 @@
 ## SmartArmStack
 
- [![SmartArm Video]([http://i.imgur.com/Ot5DWAW.png](https://user-images.githubusercontent.com/46012516/173507324-d8642fd4-7e16-494f-9f18-509c613313aa.png))](https://www.youtube.com/watch?v=dayuW47PKKc "SmartArm Video")
- 
- 
+ [![SmartArm Video](https://user-images.githubusercontent.com/46012516/173507324-d8642fd4-7e16-494f-9f18-509c613313aa.png)](https://www.youtube.com/watch?v=dayuW47PKKc "SmartArm Video")
+  
  Packages for robot-control to teleoperate `n` robots from `m` master interfaces with a ResearchOnly (NonCommercial) license for the binary packages.
  
  - Robot-side (ROS Noetic): https://github.com/SmartArmStack/smart_arm_stack
