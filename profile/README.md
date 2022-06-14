@@ -15,7 +15,7 @@
  The initial version of this repository has been described in the following [publication](http://doi.org/10.1002/rcs.2053).
 
 ```bibtex
-@Article{marinho2019integration,
+@Article{marinho2020integration,
   author       = {Marinho, Murilo M and Harada, Kanako and Morita, Akio and Mitsuishi, Mamoru},
   title        = {SmartArm: Integration and Validation of a Versatile Surgical Robotic System for Constrained Workspaces},
   journal      = {The International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCAS)},
