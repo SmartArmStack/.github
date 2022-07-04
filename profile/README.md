@@ -2,7 +2,7 @@
 
  [![SmartArm Video](https://user-images.githubusercontent.com/46012516/173507324-d8642fd4-7e16-494f-9f18-509c613313aa.png)](https://www.youtube.com/watch?v=dayuW47PKKc "SmartArm Video")
   
- Packages for robot-control to teleoperate `n` robots from `m` master interfaces with a ResearchOnly (NonCommercial) license for the binary packages.
+ Packages to teleoperate `n` robots from `m` master interfaces with a ResearchOnly (NonCommercial) license for the binary packages.
  
  - Robot-side (ROS Noetic): https://github.com/SmartArmStack/smart_arm_stack
       - DensoWave Robots
@@ -12,7 +12,7 @@
  - Operator-side (Windows 10/11): https://github.com/SmartArmStack/smart_arm_master_windows
       - 3DSystems interface family 
  
- The initial version of this repository has been described in the following [publication](http://doi.org/10.1002/rcs.2053).
+ The initial version of the software in this repository has been described in the following [publication](http://doi.org/10.1002/rcs.2053).
 
 ```bibtex
 @Article{marinho2020integration,
