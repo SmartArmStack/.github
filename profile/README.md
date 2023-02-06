@@ -12,6 +12,19 @@
  - Operator-side (Windows 10/11): https://github.com/SmartArmStack/smart_arm_master_windows
       - 3DSystems interface family 
  
+ 
+ The lastest version of the software in this repository is described in the following [preprint](https://arxiv.org/abs/2210.11877).
+ 
+ ```bibtex
+ @misc{aiscienceplatform2022,
+  title = {Design and Validation of a Multi-Arm Robotic Platform for Scientific Exploration},
+  author = {Marques Marinho, Murilo and Quiroz-Oma\~na, Juan Jos\'e and Harada, Kanako},
+  doi = {10.48550/ARXIV.2210.11877},
+  url = {https://arxiv.org/abs/2210.11877},
+  year = {2022},  
+  } 
+ ```
+ 
  The initial version of the software in this repository has been described in the following [publication](http://doi.org/10.1002/rcs.2053).
 
 ```bibtex
