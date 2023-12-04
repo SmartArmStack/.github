@@ -13,15 +13,16 @@
       - 3DSystems interface family 
  
  
- The lastest version of the software in this repository is described in the following [preprint](https://arxiv.org/abs/2210.11877).
+ The lastest version of the software in this repository is described in the following [publication](https://arxiv.org/abs/2210.11877).
  
  ```bibtex
- @misc{aiscienceplatform2022,
-  title = {Design and Validation of a Multi-Arm Robotic Platform for Scientific Exploration},
+@Article{aiscienceplatform2024,
   author = {Marques Marinho, Murilo and Quiroz-Oma\~na, Juan Jos\'e and Harada, Kanako},
-  doi = {10.48550/ARXIV.2210.11877},
+  title = {A Multi-Arm Robotic Platform for Scientific Exploration},
+  journal = {IEEE Robotics and Automation Magazine (RAM)},
+  doi = {10.1109/MRA.2023.3336472},
   url = {https://arxiv.org/abs/2210.11877},
-  year = {2022},  
+  year = {2024}
   } 
  ```
  
