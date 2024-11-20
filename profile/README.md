@@ -1,19 +1,29 @@
-## SmartArmStack
+SmartArmStack
+-------------
 
- [![SmartArm Video](https://user-images.githubusercontent.com/46012516/173507324-d8642fd4-7e16-494f-9f18-509c613313aa.png)](https://www.youtube.com/watch?v=dayuW47PKKc "SmartArm Video")
-  
- Packages to teleoperate `n` robots from `m` master interfaces with a ResearchOnly (NonCommercial) license for the binary packages.
+ - Robot-side (ROS2 Noetic): https://github.com/SmartArmStack/smart_arm_stack_ROS2/tree/jazzy
+      - LGPL Packages: as listed.
+      - NonCommercial licensed Packages: as listed.
+      - No NonCommercial packages are currently available for ROS2 Jazzy and above.
+ - Operator-side (Windows 10/11).
+      - NonCommercial licensed: https://github.com/SmartArmStack/smart_arm_master_windows
+
+_NonCommercial software cannot be used for commercial purposes._
+
+License
+-------
+
+Please refer to each repository for the license. 
+- For LGPL licensed code refer to the [GNU.org information](https://www.gnu.org/licenses/lgpl-3.0.en.html).
+- For the NonCommercial packages before and including Dec 2023 a license is required to use them for commercial purposes. This must be done via [TODAI TLO](https://todaitlo.com/en/corporate).
+- NonCommercial packages from Dec 2023 are not currently available, but they will not be covered by TODAI TLO. 
+
+History
+-------
+
+The ROS1 version of these repositories can be attributed to Murilo Marinho's work at the University of Tokyo until December 2023. They are described in the following publications.
  
- - Robot-side (ROS Noetic): https://github.com/SmartArmStack/smart_arm_stack
-      - DensoWave Robots
-      - Maxon ESCON controllers
-      - FESTO controllers
-      - AIA RobotCylinder controllers
- - Operator-side (Windows 10/11): https://github.com/SmartArmStack/smart_arm_master_windows
-      - 3DSystems interface family 
- 
- 
- The lastest version of the software in this repository is described in the following [publication](https://arxiv.org/abs/2210.11877).
+A version using ROS1 circa 2023 is described in [publication](10.1109/MRA.2023.3336472).
  
  ```bibtex
 @Article{aiscienceplatform2024,
@@ -26,7 +36,9 @@
   } 
  ```
  
- The initial version of the software in this repository has been described in the following [publication](http://doi.org/10.1002/rcs.2053).
+ The initial version of the software circa 2019 is described in [publication](http://doi.org/10.1002/rcs.2053).
+
+ [![SmartArm Video](https://user-images.githubusercontent.com/46012516/173507324-d8642fd4-7e16-494f-9f18-509c613313aa.png)](https://www.youtube.com/watch?v=dayuW47PKKc "SmartArm Video")
 
 ```bibtex
 @Article{marinho2020integration,
