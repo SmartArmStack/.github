@@ -23,7 +23,7 @@ History
 
 The ROS1 version of these repositories can be attributed to Murilo Marinho's work at the University of Tokyo until December 2023. They are described in the following publications.
  
-A version using ROS1 circa 2023 is described in [publication](10.1109/MRA.2023.3336472).
+A version using ROS1 circa 2023 is described in [this publication](10.1109/MRA.2023.3336472).
  
  ```bibtex
 @Article{aiscienceplatform2024,
@@ -36,9 +36,7 @@ A version using ROS1 circa 2023 is described in [publication](10.1109/MRA.2023.3
   } 
  ```
  
- The initial version of the software circa 2019 is described in [publication](http://doi.org/10.1002/rcs.2053).
-
- [![SmartArm Video](https://user-images.githubusercontent.com/46012516/173507324-d8642fd4-7e16-494f-9f18-509c613313aa.png)](https://www.youtube.com/watch?v=dayuW47PKKc "SmartArm Video")
+ The initial version of the software circa 2019 is described in [this publication](http://doi.org/10.1002/rcs.2053).
 
 ```bibtex
 @Article{marinho2020integration,
@@ -55,3 +53,4 @@ A version using ROS1 circa 2023 is described in [publication](10.1109/MRA.2023.3
   note         = {Top Cited Article 2020-2021.},
 }
 ```
+ [![SmartArm Video](https://user-images.githubusercontent.com/46012516/173507324-d8642fd4-7e16-494f-9f18-509c613313aa.png)](https://www.youtube.com/watch?v=dayuW47PKKc "SmartArm Video")
