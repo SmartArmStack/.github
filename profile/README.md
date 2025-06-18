@@ -1,7 +1,7 @@
 SmartArmStack
 -------------
 
- - Robot-side (ROS2 Noetic): https://github.com/SmartArmStack/smart_arm_stack_ROS2/tree/jazzy
+ - Robot-side (ROS2 Jazzy): https://github.com/SmartArmStack/smart_arm_stack_ROS2/tree/jazzy
       - LGPL Packages: as listed.
       - NonCommercial licensed Packages: as listed.
       - No NonCommercial packages are currently available for ROS2 Jazzy and above.
