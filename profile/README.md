@@ -13,7 +13,7 @@ _NonCommercial software cannot be used for commercial purposes._
 Documentation
 -------------
 
-Please help document at https://github.com/SmartArmStack/smart_arm_stack_ROS2/wiki.
+Please help document at https://ros2-tutorial.readthedocs.io/en/latest/sas/index.html
 
 License
 -------
