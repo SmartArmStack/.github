@@ -1,14 +1,7 @@
 SmartArmStack
 -------------
 
- - Robot-side (ROS2 Jazzy): https://github.com/SmartArmStack/smart_arm_stack_ROS2/tree/jazzy
-      - LGPL Packages: as listed.
-      - NonCommercial licensed Packages: as listed.
-      - No NonCommercial packages are currently available for ROS2 Jazzy and above.
- - Operator-side (Windows 10/11).
-      - NonCommercial licensed: https://github.com/SmartArmStack/smart_arm_master_windows
-
-_NonCommercial software cannot be used for commercial purposes._
+https://smartarmstack.github.io
 
 Documentation
 -------------
