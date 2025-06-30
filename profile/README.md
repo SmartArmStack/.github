@@ -8,7 +8,7 @@
 > Other installation instructions are available at https://smartarmstack.github.io.
 
 ```console
-docker run murilomarinho/sas_ros_jazzy:latest
+docker run -it murilomarinho/sas:latest
 ```
 
 ## Tutorial
