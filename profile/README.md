@@ -7,6 +7,8 @@
 > [!IMPORTANT]
 > Other installation instructions are available at https://smartarmstack.github.io.
 
+![Docker Pulls](https://img.shields.io/docker/pulls/murilomarinho/sas)
+
 ```console
 docker run -it murilomarinho/sas:latest
 ```
