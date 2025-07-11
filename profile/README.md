@@ -10,7 +10,7 @@
 ![Docker Pulls](https://img.shields.io/docker/pulls/murilomarinho/sas)
 
 ```console
-docker run -it murilomarinho/sas:latest
+docker run -it murilomarinho/sas:jazzy
 ```
 
 ## Documentation, Examples, and Tutorials
