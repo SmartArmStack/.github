@@ -11,6 +11,9 @@
 > [!IMPORTANT]
 > Pre-requisites and other instructions available at https://smartarmstack.github.io.
 
+> [!CAUTION]
+> Only call these commands once!
+
 ```console
 curl -s --compressed "https://smartarmstack.github.io/smart_arm_stack_ROS2/KEY.gpg" \
 | gpg --dearmor \
@@ -20,6 +23,9 @@ sudo curl -s --compressed -o /etc/apt/sources.list.d/smartarmstack_lgpl.list \
 sudo apt update
 sudo apt-get install ros-jazzy-sas-*
 ```
+
+> [!NOTE]
+> After installing `sas` as shown above, you can update it with `sudo apt update`.
 
 ## Docker
 
