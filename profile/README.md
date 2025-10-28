@@ -2,10 +2,26 @@
 
 `SAS` is a C++ framework with Python bindings to enable fast robot prototyping on `ROS2`, so that you are free to focus on your application. The concept of `SAS` is to split away `ROS2` code into pairing client and server classes, so that you do not need to create, for instance, publishers or subscribers manually.
 
-## Quickstart
+## Website
+
+🕸️ https://smartarmstack.github.io
+
+## Ubuntu Installation of LGPL `sas`
 
 > [!IMPORTANT]
-> Other installation instructions are available at https://smartarmstack.github.io.
+> Pre-requisites and other instructions available at https://smartarmstack.github.io.
+
+```console
+curl -s --compressed "https://smartarmstack.github.io/smart_arm_stack_ROS2/KEY.gpg" \
+| gpg --dearmor \
+| sudo tee /etc/apt/trusted.gpg.d/smartarmstack_lgpl.gpg >/dev/null
+sudo curl -s --compressed -o /etc/apt/sources.list.d/smartarmstack_lgpl.list \
+"https://smartarmstack.github.io/smart_arm_stack_ROS2/smartarmstack_lgpl.list"
+sudo apt update
+sudo apt-get install ros-jazzy-sas-*
+```
+
+## Docker
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/murilomarinho/sas)
 
