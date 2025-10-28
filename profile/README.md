@@ -58,6 +58,10 @@ The ROS2 version of these repositories tagged from January 2024 onwards are rela
 ### University of Tokyo (Until December 2023)
 
 The ROS1 version of these repositories can be attributed to Murilo Marinho's work at the University of Tokyo until December 2023. They are described in the following publications.
+
+## Citation
+
+Please cite one of these two works, depending on the version you are currently using. 
  
 A version using ROS1 circa 2023 is described in [RAM'24](10.1109/MRA.2023.3336472).
  
