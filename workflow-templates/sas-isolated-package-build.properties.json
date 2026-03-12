@@ -1,0 +1,4 @@
+{
+    "name": "sas:jazzy Isolated Package Build",
+    "description": "Dockerised package build for sas."
+}
