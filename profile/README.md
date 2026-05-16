@@ -35,6 +35,12 @@ sudo apt-get install ros-jazzy-sas-*
 docker run -it murilomarinho/sas:jazzy
 ```
 
+> [!NOTE]
+> Experimental image for `lyrical`.
+> ```console
+> docker run -it murilomarinho/sas:lyrical
+> ```
+
 ## Documentation, Examples, and Tutorials
 
 See: https://smartarmstack.github.io.
