@@ -6,6 +6,10 @@
 
 🕸️ https://smartarmstack.github.io
 
+## API Reference
+
+📚 https://marinholab.github.io/sas_devel/annotated.html
+
 ## Ubuntu Installation of LGPL `sas`
 
 > [!IMPORTANT]
