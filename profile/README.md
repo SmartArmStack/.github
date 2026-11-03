@@ -4,46 +4,13 @@
 
 ## Website
 
+Including installation and Docker usage.
+
 🕸️ https://smartarmstack.github.io
 
 ## API Reference
 
 📚 https://marinholab.github.io/sas_devel/annotated.html
-
-## Ubuntu Installation of LGPL `sas`
-
-> [!IMPORTANT]
-> Pre-requisites and other instructions available at https://smartarmstack.github.io.
-
-> [!CAUTION]
-> Only call these commands once!
-
-```console
-curl -s --compressed "https://smartarmstack.github.io/smart_arm_stack_ROS2/KEY.gpg" \
-| gpg --dearmor \
-| sudo tee /etc/apt/trusted.gpg.d/smartarmstack_lgpl.gpg >/dev/null
-sudo curl -s --compressed -o /etc/apt/sources.list.d/smartarmstack_lgpl.list \
-"https://smartarmstack.github.io/smart_arm_stack_ROS2/smartarmstack_lgpl.list"
-sudo apt update
-sudo apt-get install ros-jazzy-sas-*
-```
-
-> [!NOTE]
-> After installing `sas` as shown above, you can update it with `sudo apt update`.
-
-## Docker
-
-![Docker Pulls](https://img.shields.io/docker/pulls/murilomarinho/sas)
-
-```console
-docker run -it murilomarinho/sas:jazzy
-```
-
-> [!NOTE]
-> Experimental image for `lyrical`.
-> ```console
-> docker run -it murilomarinho/sas:lyrical
-> ```
 
 ## Documentation, Examples, and Tutorials
 
@@ -61,7 +28,7 @@ Please refer to each repository for the license.
 > [!IMPORTANT]
 > If you're using this software in your work, remember to cite it accordingly.
 
-### University of Manchester (Jan 2024--Today)
+### University of Manchester (Jan 2024-Today)
 
 The ROS2 version of these repositories tagged from January 2024 onwards are related to Murilo Marinho's work at the University of Manchester. For these there is no tying publication (yet) so please cite [RAM'24](10.1109/MRA.2023.3336472).
 
